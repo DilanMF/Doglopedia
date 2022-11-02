@@ -44,6 +44,7 @@ main #maintext {
     font-family: Georgia;
     font-size: 15px;
     text-align: start;
+    padding-bottom: 10px;
 }
 
 .Abully {
@@ -55,8 +56,6 @@ main #maintext {
     background-position: center;
     border: 1.5px solid black;
     border-bottom: 3px solid black;
-
-   
 }
 
 footer {
