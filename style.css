@@ -45,6 +45,12 @@ main #maintext {
     background-image: url(image/american-bully.jpeg);
     height: 300px;
     width: 300px;
+    background-size: cover;
+    border-radius: 50%;
+    background-position: center;
+    border: 1.5px solid black;
+    border-bottom: 3px solid black;
+
    
 }
 
